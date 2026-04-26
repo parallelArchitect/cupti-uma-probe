@@ -90,6 +90,10 @@ https://forums.developer.nvidia.com/t/gb10-hardware-baseline-first-direct-measur
 
 ---
 
+## Author
+
+parallelArchitect — Human-directed GPU engineering with AI assistance.
+
 ## License
 
 MIT
